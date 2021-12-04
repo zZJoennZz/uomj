@@ -1,0 +1,1492 @@
+[
+    {
+      "Unit Id": "DZN",
+      "Unit ISO Code": "",
+      "Unit": -2
+    },
+    {
+      "Unit Id": "EE",
+      "Unit ISO Code": "",
+      "Unit": "( EU )"
+    },
+    {
+      "Unit Id": "LE",
+      "Unit ISO Code": "C62",
+      "Unit": "Activity unit ( AU )"
+    },
+    {
+      "Unit Id": "BAG",
+      "Unit ISO Code": "BG",
+      "Unit": "Bag ( Bag )"
+    },
+    {
+      "Unit Id": "BOT",
+      "Unit ISO Code": "BO",
+      "Unit": "Bottle ( Bt. )"
+    },
+    {
+      "Unit Id": "BU",
+      "Unit ISO Code": "BU",
+      "Unit": "Bushel ( BU )"
+    },
+    {
+      "Unit Id": "KAN",
+      "Unit ISO Code": "CA",
+      "Unit": "Canister ( Can )"
+    },
+    {
+      "Unit Id": "KAR",
+      "Unit ISO Code": "CT",
+      "Unit": "Carton ( Car )"
+    },
+    {
+      "Unit Id": "CS",
+      "Unit ISO Code": "CS",
+      "Unit": "Case ( Case )"
+    },
+    {
+      "Unit Id": "KI",
+      "Unit ISO Code": "BX",
+      "Unit": "Crate ( Crate )"
+    },
+    {
+      "Unit Id": "DEG",
+      "Unit ISO Code": "DD",
+      "Unit": "Degree ( deg )"
+    },
+    {
+      "Unit Id": "DZ",
+      "Unit ISO Code": "DZN",
+      "Unit": "Dozen ( dz )"
+    },
+    {
+      "Unit Id": "DR",
+      "Unit ISO Code": "DR",
+      "Unit": "Drum ( Dr )"
+    },
+    {
+      "Unit Id": "EML",
+      "Unit ISO Code": "EML",
+      "Unit": "Enzyme Units / Milliliter ( EU/ml )"
+    },
+    {
+      "Unit Id": "G/T",
+      "Unit ISO Code": "G/T",
+      "Unit": "Gram Active Ingredient/To ( gai/To )"
+    },
+    {
+      "Unit Id": "GAU",
+      "Unit ISO Code": "GAU",
+      "Unit": "Gram Gold ( GAU )"
+    },
+    {
+      "Unit Id": "GAG",
+      "Unit ISO Code": "GAG",
+      "Unit": "Gram Silver ( GAG )"
+    },
+    {
+      "Unit Id": "GW",
+      "Unit ISO Code": "A90",
+      "Unit": "Gram act. ingrd. ( gai )"
+    },
+    {
+      "Unit Id": "GRO",
+      "Unit ISO Code": "GRO",
+      "Unit": "Gross ( gro )"
+    },
+    {
+      "Unit Id": "PCT",
+      "Unit ISO Code": "PCT",
+      "Unit": "Group proportion ( PrC )"
+    },
+    {
+      "Unit Id": "IU",
+      "Unit ISO Code": "IU",
+      "Unit": "International Unit ( IU )"
+    },
+    {
+      "Unit Id": "KGW",
+      "Unit ISO Code": "KGW",
+      "Unit": "Kilogram act. ingrd. ( kgai )"
+    },
+    {
+      "Unit Id": "MBL",
+      "Unit ISO Code": "MIL",
+      "Unit": "MBL ( MBL )"
+    },
+    {
+      "Unit Id": "MLW",
+      "Unit ISO Code": "MLW",
+      "Unit": "Milliliter act. ingr. ( mlai )"
+    },
+    {
+      "Unit Id": "YTM",
+      "Unit ISO Code": "YTM",
+      "Unit": "Moisture (Tonnes) ( YTM )"
+    },
+    {
+      "Unit Id": "NJ",
+      "Unit ISO Code": "4P",
+      "Unit": "NJ Test ( NJ )"
+    },
+    {
+      "Unit Id": "PRS",
+      "Unit ISO Code": "IE",
+      "Unit": "Number of Persons ( PRS )"
+    },
+    {
+      "Unit Id": "PC",
+      "Unit ISO Code": "PC",
+      "Unit": "PEICES ( PC )"
+    },
+    {
+      "Unit Id": "PAK",
+      "Unit ISO Code": "PK",
+      "Unit": "Pack ( PAK )"
+    },
+    {
+      "Unit Id": "PAA",
+      "Unit ISO Code": "PR",
+      "Unit": "Pair ( PAIR )"
+    },
+    {
+      "Unit Id": "PAL",
+      "Unit ISO Code": "PF",
+      "Unit": "Pallet ( PAL )"
+    },
+    {
+      "Unit Id": "ST",
+      "Unit ISO Code": "PCE",
+      "Unit": "Pices (EA) ( EA )"
+    },
+    {
+      "Unit Id": "PCE",
+      "Unit ISO Code": "PCE",
+      "Unit": "Pieces ( PCE )"
+    },
+    {
+      "Unit Id": "ROL",
+      "Unit ISO Code": "RO",
+      "Unit": "Role ( ROL )"
+    },
+    {
+      "Unit Id": "SCM",
+      "Unit ISO Code": "SCM",
+      "Unit": "SCM ( SCM )"
+    },
+    {
+      "Unit Id": "TH",
+      "Unit ISO Code": "MIL",
+      "Unit": "Thousands ( thou )"
+    },
+    {
+      "Unit Id": "TCU",
+      "Unit ISO Code": "TCU",
+      "Unit": "Ton Copper ( TCU )"
+    },
+    {
+      "Unit Id": "TAS",
+      "Unit ISO Code": "TAS",
+      "Unit": "Tonne Arsenic ( TAS )"
+    },
+    {
+      "Unit Id": "YTA",
+      "Unit ISO Code": "YTA",
+      "Unit": "Tonne Ash ( YTA )"
+    },
+    {
+      "Unit Id": "YTD",
+      "Unit ISO Code": "YTD",
+      "Unit": "Tonne Dry ( YTDr )"
+    },
+    {
+      "Unit Id": "TOZ",
+      "Unit ISO Code": "TOZ",
+      "Unit": "Troy OncesTonne ( Toz )"
+    },
+    {
+      "Unit Id": "TOT",
+      "Unit ISO Code": "TOT",
+      "Unit": "Troy Oz / Tonne ( Tot )"
+    },
+    {
+      "Unit Id": "VAL",
+      "Unit ISO Code": "VAL",
+      "Unit": "Value-only material ( val )"
+    },
+    {
+      "Unit Id": "EA",
+      "Unit ISO Code": "EA",
+      "Unit": "each (ST) ( ST )"
+    },
+    {
+      "Unit Id": "G/L",
+      "Unit ISO Code": "G/L",
+      "Unit": "gram act.ingrd / liter ( gai/l )"
+    },
+    {
+      "Unit Id": "KWK",
+      "Unit ISO Code": "KWK",
+      "Unit": "kg act.ingrd. / kg ( kai/kg )"
+    },
+    {
+      "Unit Id": "MS2",
+      "Unit ISO Code": "MSK",
+      "Unit": "Meter/second squared ( m/s2 )"
+    },
+    {
+      "Unit Id": "V02",
+      "Unit ISO Code": "C36",
+      "Unit": "Millimol per liter ( mMol/l )"
+    },
+    {
+      "Unit Id": "C36",
+      "Unit ISO Code": "C36",
+      "Unit": "Mol per cubic meter ( mol/m3 )"
+    },
+    {
+      "Unit Id": "C38",
+      "Unit ISO Code": "C38",
+      "Unit": "Mol per liter ( Mol/l )"
+    },
+    {
+      "Unit Id": "PTS",
+      "Unit ISO Code": "PTS",
+      "Unit": -9
+    },
+    {
+      "Unit Id": "ACR",
+      "Unit ISO Code": "ACR",
+      "Unit": "Acre ( acre )"
+    },
+    {
+      "Unit Id": "GLM",
+      "Unit ISO Code": "",
+      "Unit": "Gallons per mile (US) ( GPM US )"
+    },
+    {
+      "Unit Id": "HAR",
+      "Unit ISO Code": "HAR",
+      "Unit": "Hectare ( Hectar )"
+    },
+    {
+      "Unit Id": "LHK",
+      "Unit ISO Code": "LHK",
+      "Unit": "Liter per 100 km ( l/hkm )"
+    },
+    {
+      "Unit Id": "YD2",
+      "Unit ISO Code": "YDK",
+      "Unit": "Square Yard ( yd2 )"
+    },
+    {
+      "Unit Id": "CM2",
+      "Unit ISO Code": "CMK",
+      "Unit": "Square centimeter ( cm2 )"
+    },
+    {
+      "Unit Id": "FT2",
+      "Unit ISO Code": "FTK",
+      "Unit": "Square foot ( ft2 )"
+    },
+    {
+      "Unit Id": "IN2",
+      "Unit ISO Code": "INK",
+      "Unit": "Square inch ( Inch2 )"
+    },
+    {
+      "Unit Id": "KM2",
+      "Unit ISO Code": "KMK",
+      "Unit": "Square kilometer ( km2 )"
+    },
+    {
+      "Unit Id": "M2",
+      "Unit ISO Code": "MTK",
+      "Unit": "Square meter ( m2 )"
+    },
+    {
+      "Unit Id": "MI2",
+      "Unit ISO Code": "MIK",
+      "Unit": "Square mile ( Mile2 )"
+    },
+    {
+      "Unit Id": "MM2",
+      "Unit ISO Code": "MMK",
+      "Unit": "Square millimeter ( mm2 )"
+    },
+    {
+      "Unit Id": "V01",
+      "Unit ISO Code": "G42",
+      "Unit": "Microsiemens per centimeter ( ?S/cm )"
+    },
+    {
+      "Unit Id": "D10",
+      "Unit ISO Code": "D10",
+      "Unit": "Siemens per meter ( S/m )"
+    },
+    {
+      "Unit Id": "O19",
+      "Unit ISO Code": "KMK",
+      "Unit": -10
+    },
+    {
+      "Unit Id": "A93",
+      "Unit ISO Code": "A93",
+      "Unit": "Gram/Cubic meter ( g/m3 )"
+    },
+    {
+      "Unit Id": "RHO",
+      "Unit ISO Code": 23,
+      "Unit": "Gram/cubic centimeter ( g/cm3 )"
+    },
+    {
+      "Unit Id": "GLI",
+      "Unit ISO Code": "GL",
+      "Unit": "Gram/liter ( g/l )"
+    },
+    {
+      "Unit Id": "kgs",
+      "Unit ISO Code": "",
+      "Unit": "Kilogram/Standard Cubic Foot ( kg/scf )"
+    },
+    {
+      "Unit Id": "kgb",
+      "Unit ISO Code": "kgb",
+      "Unit": "Kilogram/US Barrel ( kg/bbl )"
+    },
+    {
+      "Unit Id": "B34",
+      "Unit ISO Code": "B34",
+      "Unit": "Kilogram/cubic decimeter ( kg/dm3 )"
+    },
+    {
+      "Unit Id": "KGV",
+      "Unit ISO Code": "KMQ",
+      "Unit": "Kilogram/cubic meter ( kg/m3 )"
+    },
+    {
+      "Unit Id": "GQ",
+      "Unit ISO Code": "GQ",
+      "Unit": "Microgram/cubic meter ( ?g/m3 )"
+    },
+    {
+      "Unit Id": "UGL",
+      "Unit ISO Code": "H29",
+      "Unit": "Microgram/liter ( ?g/l )"
+    },
+    {
+      "Unit Id": "MGQ",
+      "Unit ISO Code": "GP",
+      "Unit": "Milligram/cubic meter ( mg/m3 )"
+    },
+    {
+      "Unit Id": "MGL",
+      "Unit ISO Code": "M1",
+      "Unit": "Milligram/liter ( mg/l )"
+    },
+    {
+      "Unit Id": "D41",
+      "Unit ISO Code": "D41",
+      "Unit": "Ton/Cubic meter ( t/m3 )"
+    },
+    {
+      "Unit Id": "tm3",
+      "Unit ISO Code": "",
+      "Unit": "Tonne/1000 Cubic Meters ( t/tm3 )"
+    },
+    {
+      "Unit Id": "tbl",
+      "Unit ISO Code": "tbl",
+      "Unit": "Tonne/US Barrel ( t/bbl )"
+    },
+    {
+      "Unit Id": "lbs",
+      "Unit ISO Code": 87,
+      "Unit": "US Pound/Standard Cubic Foot ( lb/scf )"
+    },
+    {
+      "Unit Id": "lbg",
+      "Unit ISO Code": "GE",
+      "Unit": "US Pound/US Gallon ( lb/gal )"
+    },
+    {
+      "Unit Id": "tgl",
+      "Unit ISO Code": "tgl",
+      "Unit": "US Tonne/US Gallon ( ton/gl )"
+    },
+    {
+      "Unit Id": "MBZ",
+      "Unit ISO Code": "MBZ",
+      "Unit": "Meterbar/second ( m.b_/s )"
+    },
+    {
+      "Unit Id": "MPZ",
+      "Unit ISO Code": "MPZ",
+      "Unit": "Meterpascal/second ( m.Pa/s )"
+    },
+    {
+      "Unit Id": "MPS",
+      "Unit ISO Code": "C24",
+      "Unit": "Millipascal seconds ( mPa.s )"
+    },
+    {
+      "Unit Id": "PAS",
+      "Unit ISO Code": "C65",
+      "Unit": "Pascal second ( Pas )"
+    },
+    {
+      "Unit Id": "A87",
+      "Unit ISO Code": "A87",
+      "Unit": "Gigaohm ( GOhm )"
+    },
+    {
+      "Unit Id": "KOH",
+      "Unit ISO Code": "B49",
+      "Unit": "Kiloohm ( kOhm )"
+    },
+    {
+      "Unit Id": "B75",
+      "Unit ISO Code": "B75",
+      "Unit": "Megohm ( MOhm )"
+    },
+    {
+      "Unit Id": "OHM",
+      "Unit ISO Code": "OHM",
+      "Unit": "Ohm ( Ohm )"
+    },
+    {
+      "Unit Id": "A",
+      "Unit ISO Code": "AMP",
+      "Unit": "Ampere ( A )"
+    },
+    {
+      "Unit Id": "KA",
+      "Unit ISO Code": "B22",
+      "Unit": "Kiloampere ( kA )"
+    },
+    {
+      "Unit Id": "B84",
+      "Unit ISO Code": "B84",
+      "Unit": "Microampere ( ?A )"
+    },
+    {
+      "Unit Id": "MA",
+      "Unit ISO Code": "4K",
+      "Unit": "Milliampere ( mA )"
+    },
+    {
+      "Unit Id": "C39",
+      "Unit ISO Code": "C39",
+      "Unit": "Nanoampere ( nA )"
+    },
+    {
+      "Unit Id": "KV",
+      "Unit ISO Code": "KVT",
+      "Unit": "Kilovolt ( kV )"
+    },
+    {
+      "Unit Id": "B78",
+      "Unit ISO Code": "B78",
+      "Unit": "Megavolt ( MV )"
+    },
+    {
+      "Unit Id": "MV",
+      "Unit ISO Code": "2Z",
+      "Unit": "Millivolt ( mV )"
+    },
+    {
+      "Unit Id": "V",
+      "Unit ISO Code": "VLT",
+      "Unit": "Volt ( V )"
+    },
+    {
+      "Unit Id": "F",
+      "Unit ISO Code": "FAR",
+      "Unit": "Farad ( F )"
+    },
+    {
+      "Unit Id": "4O",
+      "Unit ISO Code": "4O",
+      "Unit": "Microfarad ( ?F )"
+    },
+    {
+      "Unit Id": "C10",
+      "Unit ISO Code": "C10",
+      "Unit": "Millifarad ( mF )"
+    },
+    {
+      "Unit Id": "C41",
+      "Unit ISO Code": "C41",
+      "Unit": "Nanofarad ( nF )"
+    },
+    {
+      "Unit Id": "4T",
+      "Unit ISO Code": "4T",
+      "Unit": "Pikofarad ( pF )"
+    },
+    {
+      "Unit Id": "MBT",
+      "Unit ISO Code": "",
+      "Unit": -8
+    },
+    {
+      "Unit Id": "GJ",
+      "Unit ISO Code": "GV",
+      "Unit": "Gigajoule ( GJ )"
+    },
+    {
+      "Unit Id": "J",
+      "Unit ISO Code": "JOU",
+      "Unit": "Joule ( J )"
+    },
+    {
+      "Unit Id": "KJ",
+      "Unit ISO Code": "KJO",
+      "Unit": "Kilojoule ( kJ )"
+    },
+    {
+      "Unit Id": "KWH",
+      "Unit ISO Code": "KWH",
+      "Unit": "Kilowatt hours ( kwh )"
+    },
+    {
+      "Unit Id": "MEJ",
+      "Unit ISO Code": "3B",
+      "Unit": "Megajoule ( MJ )"
+    },
+    {
+      "Unit Id": "MWH",
+      "Unit ISO Code": "MWH",
+      "Unit": "Megawatt hour ( MWh )"
+    },
+    {
+      "Unit Id": "MJ",
+      "Unit ISO Code": "C15",
+      "Unit": "Millijoule ( mJ )"
+    },
+    {
+      "Unit Id": "CAL",
+      "Unit ISO Code": "3B",
+      "Unit": "kilocalories ( KCAL )"
+    },
+    {
+      "Unit Id": "B47",
+      "Unit ISO Code": "B47",
+      "Unit": "Kilonewton ( ND )"
+    },
+    {
+      "Unit Id": "B73",
+      "Unit ISO Code": "B73",
+      "Unit": "Meganewton ( MN )"
+    },
+    {
+      "Unit Id": "N",
+      "Unit ISO Code": "NEW",
+      "Unit": "Newton ( N )"
+    },
+    {
+      "Unit Id": "PMI",
+      "Unit ISO Code": "PMI",
+      "Unit": "1/minute ( 1/min )"
+    },
+    {
+      "Unit Id": "BPM",
+      "Unit ISO Code": "BPM",
+      "Unit": "Bottles per minute ( BPM )"
+    },
+    {
+      "Unit Id": "HZ",
+      "Unit ISO Code": "HTZ",
+      "Unit": "Hertz (1/second) ( Hz )"
+    },
+    {
+      "Unit Id": "KHZ",
+      "Unit ISO Code": "KHZ",
+      "Unit": "Kilohertz ( kHz )"
+    },
+    {
+      "Unit Id": "MHZ",
+      "Unit ISO Code": "MHZ",
+      "Unit": "Megahertz ( MHz )"
+    },
+    {
+      "Unit Id": "RPM",
+      "Unit ISO Code": "RPM",
+      "Unit": "RPM ( RPM )"
+    },
+    {
+      "Unit Id": "WMK",
+      "Unit ISO Code": "D53",
+      "Unit": "Heat Conductivity ( W/mk )"
+    },
+    {
+      "Unit Id": "LMS",
+      "Unit ISO Code": "LMS",
+      "Unit": "Liter/Molsecond ( l/m_.s )"
+    },
+    {
+      "Unit Id": "M2I",
+      "Unit ISO Code": "M2I",
+      "Unit": "1 / square meter ( 1/M2 )"
+    },
+    {
+      "Unit Id": "MPG",
+      "Unit ISO Code": "MPG",
+      "Unit": "Miles per gallon (US) ( MPG US )"
+    },
+    {
+      "Unit Id": "M2S",
+      "Unit ISO Code": "S4",
+      "Unit": "Square meter/second ( m2/s )"
+    },
+    {
+      "Unit Id": "22S",
+      "Unit ISO Code": "C17",
+      "Unit": "Square millimeter/second ( mm2/s )"
+    },
+    {
+      "Unit Id": "CM",
+      "Unit ISO Code": "CMT",
+      "Unit": "Centimeter ( cm )"
+    },
+    {
+      "Unit Id": "DM",
+      "Unit ISO Code": "DMT",
+      "Unit": "Decimeter ( dm )"
+    },
+    {
+      "Unit Id": "FT",
+      "Unit ISO Code": "FOT",
+      "Unit": "Foot ( Foot )"
+    },
+    {
+      "Unit Id": "IN",
+      "Unit ISO Code": "INH",
+      "Unit": "Inch ( \" )"
+    },
+    {
+      "Unit Id": "KM",
+      "Unit ISO Code": "KMT",
+      "Unit": "Kilometer ( km )"
+    },
+    {
+      "Unit Id": "M",
+      "Unit ISO Code": "M",
+      "Unit": "Meter ( m )"
+    },
+    {
+      "Unit Id": "MIM",
+      "Unit ISO Code": "4H",
+      "Unit": "Micrometer ( ?m )"
+    },
+    {
+      "Unit Id": "MI",
+      "Unit ISO Code": "SMI",
+      "Unit": "Mile ( mile )"
+    },
+    {
+      "Unit Id": "MM",
+      "Unit ISO Code": "MMT",
+      "Unit": "Millimeter ( mm )"
+    },
+    {
+      "Unit Id": "NAM",
+      "Unit ISO Code": "C45",
+      "Unit": "Nanometer ( nm )"
+    },
+    {
+      "Unit Id": "YD",
+      "Unit ISO Code": "YRD",
+      "Unit": "Yards ( yd )"
+    },
+    {
+      "Unit Id": "CD",
+      "Unit ISO Code": "CDL",
+      "Unit": "Candela ( cd )"
+    },
+    {
+      "Unit Id": "MTE",
+      "Unit ISO Code": "C29",
+      "Unit": "Millitesla ( mT )"
+    },
+    {
+      "Unit Id": "TES",
+      "Unit ISO Code": "D33",
+      "Unit": "Tesla ( D )"
+    },
+    {
+      "Unit Id": "G",
+      "Unit ISO Code": "GRM",
+      "Unit": "Gram ( g )"
+    },
+    {
+      "Unit Id": "ZE",
+      "Unit ISO Code": "3H",
+      "Unit": "Kilogram ( ZE )"
+    },
+    {
+      "Unit Id": "KT",
+      "Unit ISO Code": "KTN",
+      "Unit": "Kilotonne ( kt )"
+    },
+    {
+      "Unit Id": "MG",
+      "Unit ISO Code": "MGM",
+      "Unit": "Milligram ( mg )"
+    },
+    {
+      "Unit Id": "OZ",
+      "Unit ISO Code": "ONZ",
+      "Unit": "Ounce ( oz )"
+    },
+    {
+      "Unit Id": "TO",
+      "Unit ISO Code": "TNE",
+      "Unit": "Tonne ( t )"
+    },
+    {
+      "Unit Id": "LB",
+      "Unit ISO Code": "LBR",
+      "Unit": "US pound ( lb )"
+    },
+    {
+      "Unit Id": "TON",
+      "Unit ISO Code": "STN",
+      "Unit": "US ton ( ton )"
+    },
+    {
+      "Unit Id": "KG",
+      "Unit ISO Code": "KGM",
+      "Unit": "kg ( KG )"
+    },
+    {
+      "Unit Id": "GM2",
+      "Unit ISO Code": "GM",
+      "Unit": "Gram/square meter ( g/m2 )"
+    },
+    {
+      "Unit Id": "KGF",
+      "Unit ISO Code": 28,
+      "Unit": "Kilogram/Square meter ( kg/m2 )"
+    },
+    {
+      "Unit Id": "MGF",
+      "Unit ISO Code": "H63",
+      "Unit": "Milligram/Square centimeter ( mg/cm2 )"
+    },
+    {
+      "Unit Id": "KGS",
+      "Unit ISO Code": "KGS",
+      "Unit": "Kilogram/second ( kg/s )"
+    },
+    {
+      "Unit Id": "kgj",
+      "Unit ISO Code": "kgj",
+      "Unit": "Kilogram/Joule ( kg/J )"
+    },
+    {
+      "Unit Id": "kgm",
+      "Unit ISO Code": "",
+      "Unit": "Kilogram/Million BTU ( kg/MB )"
+    },
+    {
+      "Unit Id": "tbt",
+      "Unit ISO Code": "tbt",
+      "Unit": "Tonne/British Thermal Unit ( t/Btu )"
+    },
+    {
+      "Unit Id": "tjl",
+      "Unit ISO Code": "tjl",
+      "Unit": "Tonne/Joule ( t/Joul )"
+    },
+    {
+      "Unit Id": "ttj",
+      "Unit ISO Code": "ttj",
+      "Unit": "Tonne/Terajoule ( t/TJ )"
+    },
+    {
+      "Unit Id": "lbb",
+      "Unit ISO Code": "lbb",
+      "Unit": "US Pound/British Thermal Unit ( lb/Btu )"
+    },
+    {
+      "Unit Id": "lbm",
+      "Unit ISO Code": "lbm",
+      "Unit": "US Pound/Million BTU ( lb/MB )"
+    },
+    {
+      "Unit Id": "GHG",
+      "Unit ISO Code": "GHG",
+      "Unit": "Gram/hectogram ( g/hg )"
+    },
+    {
+      "Unit Id": "GKG",
+      "Unit ISO Code": "GKG",
+      "Unit": "Gram/kilogram ( g/kg )"
+    },
+    {
+      "Unit Id": "KGK",
+      "Unit ISO Code": "M29",
+      "Unit": "Kilogram/Kilogram ( kg/kg )"
+    },
+    {
+      "Unit Id": "kgt",
+      "Unit ISO Code": "kgt",
+      "Unit": "Kilogram/US Tonne ( kg/ton )"
+    },
+    {
+      "Unit Id": "MPB",
+      "Unit ISO Code": "MPB",
+      "Unit": "Mass parts per billion ( ppb(m) )"
+    },
+    {
+      "Unit Id": "MPM",
+      "Unit ISO Code": "MPM",
+      "Unit": "Mass parts per million ( ppm(m) )"
+    },
+    {
+      "Unit Id": "MPT",
+      "Unit ISO Code": "MPT",
+      "Unit": "Mass parts per trillion ( ppt(m) )"
+    },
+    {
+      "Unit Id": "MGG",
+      "Unit ISO Code": "MGG",
+      "Unit": "Milligram/gram ( mg/g )"
+    },
+    {
+      "Unit Id": "MGK",
+      "Unit ISO Code": "NA",
+      "Unit": "Milligram/kilogram ( mg/kg )"
+    },
+    {
+      "Unit Id": "M%",
+      "Unit ISO Code": "M%",
+      "Unit": "Percent mass ( %(m) )"
+    },
+    {
+      "Unit Id": "M%O",
+      "Unit ISO Code": "M%O",
+      "Unit": "Permille mass ( %O(m) )"
+    },
+    {
+      "Unit Id": "tt",
+      "Unit ISO Code": "tt",
+      "Unit": "Tonne/Tonne ( t/t )"
+    },
+    {
+      "Unit Id": "lbt",
+      "Unit ISO Code": "lbt",
+      "Unit": "US Pound/US Tonne ( lb/ton )"
+    },
+    {
+      "Unit Id": "JMO",
+      "Unit ISO Code": "B15",
+      "Unit": "Joule/Mol ( J/mol )"
+    },
+    {
+      "Unit Id": "KJM",
+      "Unit ISO Code": "B44",
+      "Unit": "Kilojoule/Mol ( KJ/mol )"
+    },
+    {
+      "Unit Id": "GM",
+      "Unit ISO Code": "",
+      "Unit": "Gram/Mol ( g/mol )"
+    },
+    {
+      "Unit Id": "kml",
+      "Unit ISO Code": "kml",
+      "Unit": "Kilogram/Kilogram Mole ( kg/kgm )"
+    },
+    {
+      "Unit Id": "KGM",
+      "Unit ISO Code": "",
+      "Unit": "Kilogram/Mol ( kg/mol )"
+    },
+    {
+      "Unit Id": "lbl",
+      "Unit ISO Code": "lbl",
+      "Unit": "US Pound/US Pound Mole ( lb/lbm )"
+    },
+    {
+      "Unit Id": "B45",
+      "Unit ISO Code": "B45",
+      "Unit": "Kilomol ( kmol )"
+    },
+    {
+      "Unit Id": "MMO",
+      "Unit ISO Code": "C18",
+      "Unit": "Millimol ( mmol )"
+    },
+    {
+      "Unit Id": "MOL",
+      "Unit ISO Code": "C34",
+      "Unit": "Mol ( mol )"
+    },
+    {
+      "Unit Id": "TC3",
+      "Unit ISO Code": "TC3",
+      "Unit": "1/cubic centimeter ( 1/cm3 )"
+    },
+    {
+      "Unit Id": "TM3",
+      "Unit ISO Code": "",
+      "Unit": "1/cubic meter ( 1/m3 )"
+    },
+    {
+      "Unit Id": "PRM",
+      "Unit ISO Code": "PRM",
+      "Unit": "Permeation Rate ( ug/c2m )"
+    },
+    {
+      "Unit Id": "PMR",
+      "Unit ISO Code": "PMR",
+      "Unit": "Permeation Rate SI ( kg/m2s )"
+    },
+    {
+      "Unit Id": "P",
+      "Unit ISO Code": "P",
+      "Unit": "Points ( P )"
+    },
+    {
+      "Unit Id": "KVA",
+      "Unit ISO Code": "KVA",
+      "Unit": "Kilovoltampere ( kVA )"
+    },
+    {
+      "Unit Id": "KW",
+      "Unit ISO Code": "KWT",
+      "Unit": "Kilowatt ( KW )"
+    },
+    {
+      "Unit Id": "MVA",
+      "Unit ISO Code": "MVA",
+      "Unit": "Megavoltampere ( MVA )"
+    },
+    {
+      "Unit Id": "MGW",
+      "Unit ISO Code": "MAW",
+      "Unit": "Megawatt ( VA )"
+    },
+    {
+      "Unit Id": "MW",
+      "Unit ISO Code": "C31",
+      "Unit": "Milliwatt ( mW )"
+    },
+    {
+      "Unit Id": "D46",
+      "Unit ISO Code": "D46",
+      "Unit": "Voltampere ( VAM )"
+    },
+    {
+      "Unit Id": "W",
+      "Unit ISO Code": "WTT",
+      "Unit": "Watt ( W )"
+    },
+    {
+      "Unit Id": "bft",
+      "Unit ISO Code": "B0",
+      "Unit": "British Thermal Unit/Cubic Ft ( Bt/ft3 )"
+    },
+    {
+      "Unit Id": "bbl",
+      "Unit ISO Code": "bbl",
+      "Unit": "British Thermal Unit/US Barrel ( Bt/bbl )"
+    },
+    {
+      "Unit Id": "bgl",
+      "Unit ISO Code": "bgl",
+      "Unit": "British Thermal Unit/US Gallon ( Bt/gal )"
+    },
+    {
+      "Unit Id": "gj3",
+      "Unit ISO Code": "gj3",
+      "Unit": "Gigajoule/1000 Cubic Meters ( GJ/tm3 )"
+    },
+    {
+      "Unit Id": "gjm",
+      "Unit ISO Code": "gjm",
+      "Unit": "Gigajoule/Cubic Meter ( GJ/m3 )"
+    },
+    {
+      "Unit Id": "HPA",
+      "Unit ISO Code": "A97",
+      "Unit": "Hectopascal ( hPa )"
+    },
+    {
+      "Unit Id": "jm3",
+      "Unit ISO Code": "JM3",
+      "Unit": "Joule/Cubic Meter ( J/m3 )"
+    },
+    {
+      "Unit Id": "KPA",
+      "Unit ISO Code": "KPA",
+      "Unit": "Kilopascal ( kPa )"
+    },
+    {
+      "Unit Id": "MPA",
+      "Unit ISO Code": "MPA",
+      "Unit": "Megapascal ( MPa )"
+    },
+    {
+      "Unit Id": "MBA",
+      "Unit ISO Code": "MBR",
+      "Unit": "Millibar ( mbar )"
+    },
+    {
+      "Unit Id": "mbb",
+      "Unit ISO Code": "mbb",
+      "Unit": "Million BTU/US Barrel ( MB/bbl )"
+    },
+    {
+      "Unit Id": "C56",
+      "Unit ISO Code": "C56",
+      "Unit": "Newton/Square millimeter ( N/mm2 )"
+    },
+    {
+      "Unit Id": "PA",
+      "Unit ISO Code": "PAL",
+      "Unit": "Pascal ( Pa )"
+    },
+    {
+      "Unit Id": "BAR",
+      "Unit ISO Code": "BAR",
+      "Unit": "bar ( bar )"
+    },
+    {
+      "Unit Id": 1,
+      "Unit ISO Code": "C62",
+      "Unit": "One ( One )"
+    },
+    {
+      "Unit Id": "PPB",
+      "Unit ISO Code": "PPB",
+      "Unit": "Parts per billion ( ppb )"
+    },
+    {
+      "Unit Id": "PPM",
+      "Unit ISO Code": 59,
+      "Unit": "Parts per million ( ppm )"
+    },
+    {
+      "Unit Id": "PPT",
+      "Unit ISO Code": "PPT",
+      "Unit": "Parts per trillion ( ppt )"
+    },
+    {
+      "Unit Id": "%O",
+      "Unit ISO Code": "",
+      "Unit": "Per mille ( %O )"
+    },
+    {
+      "Unit Id": "%",
+      "Unit ISO Code": "P1",
+      "Unit": "Percentage ( % )"
+    },
+    {
+      "Unit Id": "KMN",
+      "Unit ISO Code": "F11",
+      "Unit": "Kelvin/Minute ( K/min )"
+    },
+    {
+      "Unit Id": "KMS",
+      "Unit ISO Code": "F12",
+      "Unit": "Kelvin/Second ( K/s )"
+    },
+    {
+      "Unit Id": "OCM",
+      "Unit ISO Code": "C60",
+      "Unit": "Spec. Elec. Resistance ( Ohcm )"
+    },
+    {
+      "Unit Id": "OM",
+      "Unit ISO Code": "C61",
+      "Unit": "Spec. Elec. Resistance ( Ohmm )"
+    },
+    {
+      "Unit Id": "JKK",
+      "Unit ISO Code": "B11",
+      "Unit": "Spec. Heat Capacity ( J/kgK )"
+    },
+    {
+      "Unit Id": "MMG",
+      "Unit ISO Code": "H68",
+      "Unit": "Millimol/gram ( mmol/g )"
+    },
+    {
+      "Unit Id": "MMK",
+      "Unit ISO Code": "D87",
+      "Unit": "Millimol/kilogram ( m_/kg )"
+    },
+    {
+      "Unit Id": "MOK",
+      "Unit ISO Code": "C19",
+      "Unit": "Mol/kilogram ( mol/kg )"
+    },
+    {
+      "Unit Id": "BQK",
+      "Unit ISO Code": "A18",
+      "Unit": "Becquerel/kilogram ( Bq/kg )"
+    },
+    {
+      "Unit Id": "KBK",
+      "Unit ISO Code": "B25",
+      "Unit": "Kilobecquerel/kilogram ( kBq/kg )"
+    },
+    {
+      "Unit Id": "btl",
+      "Unit ISO Code": "btl",
+      "Unit": "British Thermal Unit/US Pound ( Btu/lb )"
+    },
+    {
+      "Unit Id": "gjt",
+      "Unit ISO Code": "gjt",
+      "Unit": "Gigajoule/US Tonne ( GJ/ton )"
+    },
+    {
+      "Unit Id": "JKG",
+      "Unit ISO Code": "JKG",
+      "Unit": "Joule/Kilogram ( J/kg )"
+    },
+    {
+      "Unit Id": "KJK",
+      "Unit ISO Code": "KJK",
+      "Unit": "Kilojoule/kilogram ( KJ/kg )"
+    },
+    {
+      "Unit Id": "mbt",
+      "Unit ISO Code": "mbt",
+      "Unit": "Million BTU/US Tonne ( MB/ton )"
+    },
+    {
+      "Unit Id": "CMH",
+      "Unit ISO Code": "",
+      "Unit": "Centimeter/hour ( cm/h )"
+    },
+    {
+      "Unit Id": "2M",
+      "Unit ISO Code": "2M",
+      "Unit": "Centimeter/second ( cm/s )"
+    },
+    {
+      "Unit Id": "KMH",
+      "Unit ISO Code": "KMH",
+      "Unit": "Kilometer/hour ( km/h )"
+    },
+    {
+      "Unit Id": "MTS",
+      "Unit ISO Code": "X03",
+      "Unit": "Meter/Hour ( m/h )"
+    },
+    {
+      "Unit Id": "2X",
+      "Unit ISO Code": "2X",
+      "Unit": "Meter/Minute ( m/min )"
+    },
+    {
+      "Unit Id": "M/S",
+      "Unit ISO Code": "MTS",
+      "Unit": "Meter/second ( m/s )"
+    },
+    {
+      "Unit Id": "MMH",
+      "Unit ISO Code": "H67",
+      "Unit": "Millimeter/hour ( mm/h )"
+    },
+    {
+      "Unit Id": "MMS",
+      "Unit ISO Code": "C16",
+      "Unit": "Millimeter/second ( mm/s )"
+    },
+    {
+      "Unit Id": "MMA",
+      "Unit ISO Code": "H66",
+      "Unit": "Millimeter/year ( mm/a )"
+    },
+    {
+      "Unit Id": "MNM",
+      "Unit ISO Code": "C22",
+      "Unit": "Millinewton/meter ( mN/m )"
+    },
+    {
+      "Unit Id": "NM",
+      "Unit ISO Code": "4P",
+      "Unit": "Newton/meter ( N/m )"
+    },
+    {
+      "Unit Id": "GC",
+      "Unit ISO Code": "CEL",
+      "Unit": "Degrees Celsius ( ��C )"
+    },
+    {
+      "Unit Id": "FA",
+      "Unit ISO Code": "FAH",
+      "Unit": "Fahrenheit ( ��F )"
+    },
+    {
+      "Unit Id": "K",
+      "Unit ISO Code": "KEL",
+      "Unit": "Kelvin ( K )"
+    },
+    {
+      "Unit Id": "AA",
+      "Unit ISO Code": "",
+      "Unit": "AA ( AAAAAA )"
+    },
+    {
+      "Unit Id": "TST",
+      "Unit ISO Code": "",
+      "Unit": -1
+    },
+    {
+      "Unit Id": "TAG",
+      "Unit ISO Code": "DAY",
+      "Unit": "Days ( Days )"
+    },
+    {
+      "Unit Id": 10,
+      "Unit ISO Code": "DAY",
+      "Unit": "Days ( d )"
+    },
+    {
+      "Unit Id": "H",
+      "Unit ISO Code": "HUR",
+      "Unit": "Hour ( h )"
+    },
+    {
+      "Unit Id": "HR",
+      "Unit ISO Code": "HR",
+      "Unit": "Hours ( HOU )"
+    },
+    {
+      "Unit Id": "STD",
+      "Unit ISO Code": "HUR",
+      "Unit": "Hours ( hrs )"
+    },
+    {
+      "Unit Id": "MIS",
+      "Unit ISO Code": "B98",
+      "Unit": "Microsecond ( ?s )"
+    },
+    {
+      "Unit Id": "MS",
+      "Unit ISO Code": "C26",
+      "Unit": "Millisecond ( ms )"
+    },
+    {
+      "Unit Id": "MIN",
+      "Unit ISO Code": "MIN",
+      "Unit": "Minute ( min )"
+    },
+    {
+      "Unit Id": "MON",
+      "Unit ISO Code": "MON",
+      "Unit": "Months ( Months )"
+    },
+    {
+      "Unit Id": "NS",
+      "Unit ISO Code": "C47",
+      "Unit": "Nanosecond ( ns )"
+    },
+    {
+      "Unit Id": "PS",
+      "Unit ISO Code": "H70",
+      "Unit": "Picosecond ( ps )"
+    },
+    {
+      "Unit Id": "S",
+      "Unit ISO Code": "SEC",
+      "Unit": "Second ( s )"
+    },
+    {
+      "Unit Id": "WCH",
+      "Unit ISO Code": "WEE",
+      "Unit": "Weeks ( Weeks )"
+    },
+    {
+      "Unit Id": "JHR",
+      "Unit ISO Code": "ANN",
+      "Unit": "Years ( yr )"
+    },
+    {
+      "Unit Id": "WTL",
+      "Unit ISO Code": "WTL",
+      "Unit": "Vaporization Speed ( kg/sm2 )"
+    },
+    {
+      "Unit Id": "BB6",
+      "Unit ISO Code": "",
+      "Unit": -3
+    },
+    {
+      "Unit Id": "BBL",
+      "Unit ISO Code": "",
+      "Unit": -4
+    },
+    {
+      "Unit Id": "BCF",
+      "Unit ISO Code": "",
+      "Unit": -5
+    },
+    {
+      "Unit Id": "BUI",
+      "Unit ISO Code": "",
+      "Unit": -6
+    },
+    {
+      "Unit Id": "BUU",
+      "Unit ISO Code": "",
+      "Unit": -7
+    },
+    {
+      "Unit Id": "CTL",
+      "Unit ISO Code": "CTL",
+      "Unit": "Centiliter ( Cl )"
+    },
+    {
+      "Unit Id": "CCM",
+      "Unit ISO Code": "CMQ",
+      "Unit": "Cubic centimeter ( cm3 )"
+    },
+    {
+      "Unit Id": "CDM",
+      "Unit ISO Code": "DMQ",
+      "Unit": "Cubic decimeter ( dm3 )"
+    },
+    {
+      "Unit Id": "FT3",
+      "Unit ISO Code": "FTQ",
+      "Unit": "Cubic foot ( ft3 )"
+    },
+    {
+      "Unit Id": "IN3",
+      "Unit ISO Code": "INQ",
+      "Unit": "Cubic inch ( Inch3 )"
+    },
+    {
+      "Unit Id": "M3",
+      "Unit ISO Code": "MTQ",
+      "Unit": "Cubic meter ( m3 )"
+    },
+    {
+      "Unit Id": "MMQ",
+      "Unit ISO Code": "MMQ",
+      "Unit": "Cubic millimeter ( mm3 )"
+    },
+    {
+      "Unit Id": "YD3",
+      "Unit ISO Code": "YDQ",
+      "Unit": "Cubic yard ( yd3 )"
+    },
+    {
+      "Unit Id": "OZA",
+      "Unit ISO Code": "OZA",
+      "Unit": "Fluid Ounce US ( foz US )"
+    },
+    {
+      "Unit Id": "HL",
+      "Unit ISO Code": "HLT",
+      "Unit": "Hectoliter ( hl )"
+    },
+    {
+      "Unit Id": "L",
+      "Unit ISO Code": "LTR",
+      "Unit": "Liter ( l )"
+    },
+    {
+      "Unit Id": "4G",
+      "Unit ISO Code": "4G",
+      "Unit": "Microliter ( ?l )"
+    },
+    {
+      "Unit Id": "ML",
+      "Unit ISO Code": "MLT",
+      "Unit": "Milliliter ( ml )"
+    },
+    {
+      "Unit Id": "PT",
+      "Unit ISO Code": "PT",
+      "Unit": "Pint, US liquid ( pt US )"
+    },
+    {
+      "Unit Id": "QT",
+      "Unit ISO Code": "QTL",
+      "Unit": "Quart, US liquid ( qt US )"
+    },
+    {
+      "Unit Id": "GLL",
+      "Unit ISO Code": "GLL",
+      "Unit": "US gallon ( gal US )"
+    },
+    {
+      "Unit Id": "KMK",
+      "Unit ISO Code": "X02",
+      "Unit": "Cubic meter/Cubic meter ( m3/m3 )"
+    },
+    {
+      "Unit Id": "MLK",
+      "Unit ISO Code": "MLK",
+      "Unit": "Milliliter/cubic meter ( ml/m3 )"
+    },
+    {
+      "Unit Id": "V%",
+      "Unit ISO Code": "PV",
+      "Unit": "Percent volume ( %(V) )"
+    },
+    {
+      "Unit Id": "V%O",
+      "Unit ISO Code": "VPO",
+      "Unit": "Permille volume ( %O(V) )"
+    },
+    {
+      "Unit Id": "VPB",
+      "Unit ISO Code": "VPB",
+      "Unit": "Volume parts per billion ( ppb(V) )"
+    },
+    {
+      "Unit Id": "VPM",
+      "Unit ISO Code": "VPM",
+      "Unit": "Volume parts per million ( ppm(V) )"
+    },
+    {
+      "Unit Id": "VPT",
+      "Unit ISO Code": "VPT",
+      "Unit": "Volume parts per trillion ( ppt(V) )"
+    },
+    {
+      "Unit Id": "C3S",
+      "Unit ISO Code": "2J",
+      "Unit": "Cubic centimeter/second ( cm3/s )"
+    },
+    {
+      "Unit Id": "MQH",
+      "Unit ISO Code": "MQH",
+      "Unit": "Cubic meter/Hour ( m3/h )"
+    },
+    {
+      "Unit Id": "M3D",
+      "Unit ISO Code": "G52",
+      "Unit": "Cubic meter/day ( m3/d )"
+    },
+    {
+      "Unit Id": "M3S",
+      "Unit ISO Code": "MQS",
+      "Unit": "Cubic meter/second ( m3/s )"
+    },
+    {
+      "Unit Id": "GPH",
+      "Unit ISO Code": "G50",
+      "Unit": "Gallons per hour (US) ( GPH US )"
+    },
+    {
+      "Unit Id": "LPH",
+      "Unit ISO Code": "LPH",
+      "Unit": "Liter per hour ( L/hr )"
+    },
+    {
+      "Unit Id": "L2",
+      "Unit ISO Code": "L2",
+      "Unit": "Liter/Minute ( l/min )"
+    }
+  ]
